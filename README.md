@@ -1,4 +1,5 @@
 # Potato Weather!
+### US Only!!!
 
 <img width="256" height="256" alt="IMG_2668 1" src="https://github.com/user-attachments/assets/8f572bda-44ed-4846-b194-8f02b1be20c5" />
 
