@@ -1,24 +1,16 @@
-# Potato Weather!
-### US Only!!!
+# potato_weather
 
-<img width="256" height="256" alt="IMG_2668 1" src="https://github.com/user-attachments/assets/8f572bda-44ed-4846-b194-8f02b1be20c5" />
+A new Flutter project.
 
-*Sea Potato (Manatee)*
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-**Potato Weather** is a Cross-platform weather app for Android, Windows, Linux, and possibly more!
+A few resources to get you started if this is your first Flutter project:
 
-Written in Flutter
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-# Features:
-**Current Temp/Weather**: *(fancy)* Self explanitory.
-
-**Forecast**: Daily Forecast.
-
-**Radar**: Radar supplied by the [National Weather Service](https://weather.gov "NWS Website") and [NOAA](https://noaa.gov "National Oceanic and Atmospheric Administration Website").
-
-**Alerts**: Any EAS alerts for your area will be displayed.
-
-**NOAA Weather Radio**: Out of Service currently. Please let me know if you know of any mp3 streams for the weather radio!!! 
-
-**Snow Day Calculator**: Link to [snowdaycalculator.com](https://snowdaycalculator.com "Snow Day Calculator Website") *#notsponsored*
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
